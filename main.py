@@ -15,7 +15,7 @@ from selenium.common.exceptions import StaleElementReferenceException
 
 
 HOME_DIR = str(Path.home())
-URL_DEL_GRUPPO = "https://web.telegram.org/k/#-1587006666"
+URL_DEL_GRUPPO = "xxx"
 
 
 default_user_dir= path.abspath(HOME_DIR+"/AppData/Local/Google/Chrome/User Data/Default").replace("/","\\")
